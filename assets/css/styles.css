@@ -1,0 +1,40 @@
+
+
+/*Global*/
+img{
+    display: block;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+/*Icons*/
+
+i{
+    cursor: pointer;
+}
+
+.bi-grid-3x3, .bi-square{
+    color: rgb(3, 3, 3);
+    font-size: 25px;
+}
+
+.bi-square:hover{
+    color: blue;
+}
+
+.bi-grid-3x3:hover{
+    color: blue;
+}
+
+
+
+/*Cards*/
+
+
+.cards{
+    max-width: 40%; 
+}
+
